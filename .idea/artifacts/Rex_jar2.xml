@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rex:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rex_jar2</output-path>
+    <root id="archive" name="Rex.jar">
+      <element id="module-output" name="Rex" />
+    </root>
+  </artifact>
+</component>
